@@ -36,6 +36,8 @@ function iLovetheBeatles(num){
 }
 
 while (num < 15);
+return newArray2;
+}
 
 
 
